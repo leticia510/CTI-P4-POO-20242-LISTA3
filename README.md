@@ -3,6 +3,7 @@
 📌 3° Lista de Exercícios - Programação Orientada a Objetos (POO)
 
 📖 Descrição
+
 Este repositório contém uma série de exercícios práticos de Programação Orientada a Objetos (POO), disciplina ministrada pelo professor Roger Moura Sarmento no IFCE - Campus Maranguape. O conteúdo dos exercícios é baseado nos capítulos do livro Fundamentos da Programação de Computadores, escrito por Ana F. G. Ascencio e Edilene A. V. de Campos.
 
 Os exercícios abordam conceitos fundamentais para o aprendizado da lógica de programação e da programação orientada a objetos. A principal linguagem utilizada nos exercícios é o Java, que é amplamente usada tanto no ambiente acadêmico quanto profissional. O objetivo é fortalecer o entendimento de conceitos-chave, como estruturas condicionais, estruturas de repetição, vetores e subrotinas.
