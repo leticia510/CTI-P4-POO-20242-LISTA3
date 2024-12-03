@@ -9,6 +9,7 @@ Este repositório contém uma série de exercícios práticos de Programação O
 Os exercícios abordam conceitos fundamentais para o aprendizado da lógica de programação e da programação orientada a objetos. A principal linguagem utilizada nos exercícios é o Java, que é amplamente usada tanto no ambiente acadêmico quanto profissional. O objetivo é fortalecer o entendimento de conceitos-chave, como estruturas condicionais, estruturas de repetição, vetores e subrotinas.
 
 Conteúdo dos Exercícios:
+
 Capítulo 06 - Estrutura Condicional: Neste capítulo, os exercícios focam no uso de estruturas condicionais, como if, else e switch. Estas estruturas permitem que o programa tome decisões com base em condições específicas, tornando-o dinâmico e adaptável às diferentes situações que possam ocorrer durante sua execução. São conceitos essenciais para qualquer aplicação que envolva fluxos de controle, como verificações de validade, escolhas de caminhos e manipulação de dados em tempo real.
 
 Capítulo 08 - Estrutura de Repetição e Vetores: Este capítulo aprofunda-se nas estruturas de repetição como for, while, e do-while, além de introduzir o uso de vetores e subrotinas. Com essas ferramentas, é possível automatizar tarefas repetitivas de maneira eficiente, manipular coleções de dados e aplicar algoritmos para resolver problemas de forma estruturada. O uso de subrotinas (métodos) também é enfatizado, pois são fundamentais para organizar e modularizar o código, facilitando a reutilização e a manutenção do sistema. Os vetores permitem armazenar múltiplos valores sob uma única variável, possibilitando a criação de algoritmos mais complexos e eficientes.
@@ -16,12 +17,14 @@ Capítulo 08 - Estrutura de Repetição e Vetores: Este capítulo aprofunda-se n
 Esses exercícios têm o objetivo de não só reforçar os conceitos teóricos, mas também proporcionar uma aplicação prática desses conceitos, tornando a aprendizagem mais efetiva e engajante.
 
 💡 Membros da Equipe:
+
 Luna Andrade Osterne
 Maria Naely do Nascimento Paz
 Ana Letícia Araújo Nunes
 A equipe está comprometida com o aprendizado contínuo e a prática dos conceitos de Programação Orientada a Objetos, sempre buscando soluções eficientes e elegantes.
 
 👾 Como Testar os Exercícios
+
 Para testar os exercícios em seu próprio ambiente de desenvolvimento, siga os passos abaixo para configurar o Eclipse IDE e rodar o código:
 
 Passo 1: Baixar e Instalar o Eclipse
